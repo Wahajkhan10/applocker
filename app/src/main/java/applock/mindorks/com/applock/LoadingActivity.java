@@ -6,8 +6,9 @@ import android.os.Bundle;
 import android.os.Handler;
 import android.support.v7.app.AppCompatActivity;
 
+
 /**
- * Created by amitshekhar on 23/05/15.
+ * Created by Wahaj.
  */
 public class LoadingActivity extends AppCompatActivity {
     Context context;

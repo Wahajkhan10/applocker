@@ -7,8 +7,9 @@ import com.google.android.gms.analytics.Tracker;
 
 import java.util.HashMap;
 
+
 /**
- * Created by amitshekhar on 01/05/15.
+ * Created by Wahaj.
  */
 public class AppLockApplication extends Application {
 

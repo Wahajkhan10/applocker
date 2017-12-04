@@ -5,7 +5,7 @@ import android.content.Context;
 import android.content.Intent;
 
 /**
- * Created by amitshekhar on 28/04/15.
+ * Created by Wahaj.
  */
 public class ConnectivityReceiver extends BroadcastReceiver {
     @Override

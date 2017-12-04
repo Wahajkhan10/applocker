@@ -1,7 +1,8 @@
 package applock.mindorks.com.applock;
 
+
 /**
- * Created by amitshekhar on 30/04/15.
+ * Created by Wahaj.
  */
 public class AppLockConstants {
     public static final String MyPREFERENCES = "MyPreferences";

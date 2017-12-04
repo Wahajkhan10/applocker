@@ -5,8 +5,9 @@ import com.google.android.gms.analytics.Tracker;
 
 import applock.mindorks.com.applock.AppLockApplication;
 
+
 /**
- * Created by amitshekhar on 01/05/15.
+ * Created by Wahaj.
  */
 public class AppLockLogEvents {
 

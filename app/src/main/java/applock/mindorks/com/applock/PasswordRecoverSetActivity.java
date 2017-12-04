@@ -23,8 +23,9 @@ import java.util.List;
 import applock.mindorks.com.applock.Custom.FlatButton;
 import applock.mindorks.com.applock.Utils.AppLockLogEvents;
 
+
 /**
- * Created by amitshekhar on 02/05/15.
+ * Created by Wahaj.
  */
 public class PasswordRecoverSetActivity extends AppCompatActivity {
     SharedPreferences sharedPreferences;

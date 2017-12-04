@@ -18,8 +18,9 @@ import applock.mindorks.com.applock.R;
 import applock.mindorks.com.applock.Utils.AppLockLogEvents;
 import applock.mindorks.com.applock.Utils.SharedPreference;
 
+
 /**
- * Created by amitshekhar on 01/05/15.
+ * Created by Wahaj.
  */
 public class NewAppInstalledReceiver extends BroadcastReceiver {
 

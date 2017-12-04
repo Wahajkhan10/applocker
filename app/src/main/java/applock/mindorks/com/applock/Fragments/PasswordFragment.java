@@ -20,8 +20,9 @@ import applock.mindorks.com.applock.MainActivity;
 import applock.mindorks.com.applock.R;
 import applock.mindorks.com.applock.Utils.AppLockLogEvents;
 
+
 /**
- * Created by amitshekhar on 30/04/15.
+ * Created by Wahaj.
  */
 public class PasswordFragment extends Fragment {
     Lock9View lock9View;

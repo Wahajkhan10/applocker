@@ -21,8 +21,9 @@ import com.google.android.gms.analytics.Tracker;
 import applock.mindorks.com.applock.services.AlarmReceiver;
 import applock.mindorks.com.applock.services.AppCheckServices;
 
+
 /**
- * Created by amitshekhar on 30/04/15.
+ * Created by Wahaj.
  */
 public class SplashActivity extends AppCompatActivity {
 

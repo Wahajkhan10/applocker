@@ -13,8 +13,9 @@ import applock.mindorks.com.applock.Adapter.ApplicationListAdapter;
 import applock.mindorks.com.applock.MainActivity;
 import applock.mindorks.com.applock.R;
 
+
 /**
- * Created by amitshekhar on 30/04/15.
+ * Created by Wahaj.
  */
 public class AllAppFragment extends Fragment {
 

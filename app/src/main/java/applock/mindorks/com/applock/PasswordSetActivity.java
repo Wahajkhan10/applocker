@@ -18,8 +18,9 @@ import com.takwolf.android.lock9.Lock9View;
 import applock.mindorks.com.applock.Custom.FlatButton;
 import applock.mindorks.com.applock.Utils.AppLockLogEvents;
 
+
 /**
- * Created by amitshekhar on 30/04/15.
+ * Created by Wahaj.
  */
 public class PasswordSetActivity extends AppCompatActivity {
     Lock9View lock9View;

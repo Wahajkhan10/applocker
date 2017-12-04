@@ -1,7 +1,8 @@
 package applock.mindorks.com.applock.Utils;
 
+
 /**
- * Created by amitshekhar on 28/04/15.
+ * Created by Wahaj.
  */
 
 import android.content.Context;

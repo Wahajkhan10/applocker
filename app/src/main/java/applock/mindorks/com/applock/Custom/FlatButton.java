@@ -17,8 +17,9 @@ import android.widget.Button;
 
 import applock.mindorks.com.applock.R;
 
+
 /**
- * Created by amitshekhar on 02/05/15.
+ * Created by Wahaj.
  */
 
 public class FlatButton extends Button implements View.OnTouchListener {

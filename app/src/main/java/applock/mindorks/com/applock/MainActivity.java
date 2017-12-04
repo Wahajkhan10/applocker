@@ -1,5 +1,8 @@
 package applock.mindorks.com.applock;
 
+/**
+ * Created by Wahaj.
+ */
 import android.app.Dialog;
 import android.content.Context;
 import android.content.Intent;
