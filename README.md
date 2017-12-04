@@ -1,3 +1,2 @@
 # AppLock
-Android Application for app lock
-This is very old project.
+Android Application for app lock The project is now available with more advancements and all bug fixes. 
